@@ -1,0 +1,2 @@
+# Salesforce-Project
+This project aimed at providing an integrated platform to the international students in order to bring the key serviceslike PPSN, GNIB etc at the finger tips of the International Students and hence reducing the time required to get adjustedand settled in Ireland.  In this project Salesforce was used in order to explore the Salesforce ecosystem.  Also to understandas to how we can deploy complex ERP systems online quickly by reducing development costs
